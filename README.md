@@ -1,6 +1,6 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/chia-lin-chen-abb202103/)
 ### Hi there 👋
-I'm Ellen, a passionate frontend developer from Taiwan who is obsessed with user-centric solutions 🚀
+I'm Ellen, a passionate Front-End developer from Taiwan who is obsessed with user-centric solutions 🚀
 
 
 ## 💼 Skills
